@@ -1,4 +1,4 @@
-Coffee-Sales-Data-Analysis
+Coffee Sales Data Analysis
 An interactive analysis of coffee sales data, focused on sales performance metrics and regional insights to aid decision-making.
 
 Project Overview
